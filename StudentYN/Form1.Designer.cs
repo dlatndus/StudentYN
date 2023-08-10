@@ -108,7 +108,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(145, 67);
             this.button5.TabIndex = 5;
-            this.button5.Text = "제출 순 정렬 보기";
+            this.button5.Text = "제출 여부 순 정렬 보기";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
