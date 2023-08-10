@@ -68,7 +68,7 @@ namespace StudentYN
         private void button5_Click(object sender, EventArgs e)
         {
             studentBindingSource.DataSource = from item in students
-                                              orderby item.Id
+                                              orderby item.Submit descending
                                               select item;
         }
 
