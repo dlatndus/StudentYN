@@ -28,6 +28,12 @@ namespace StudentYN
             new Student(){ Id= 3112, Name="조예서", Submit="yes"},
             new Student(){ Id= 3113, Name="최자윤", Submit="no"},
             new Student(){ Id= 3114, Name="황유솔", Submit="yes"},
+            new Student(){ Id= 3115, Name="권하은", Submit="no"},
+            new Student(){ Id= 3116, Name="양다연", Submit="yes"},
+            new Student(){ Id= 3117, Name="윤소희", Submit="yes"},
+            new Student(){ Id= 3118, Name="곽경희", Submit="no"},
+            new Student(){ Id= 3119, Name="김하늘", Submit="yes"},
+            new Student(){ Id= 3120, Name="장서영", Submit="no"},
         };
         public Form1()
         {
